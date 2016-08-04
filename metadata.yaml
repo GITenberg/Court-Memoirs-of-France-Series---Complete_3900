@@ -1,0 +1,33 @@
+_repo: Court-Memoirs-of-France-Series---Complete_3900
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764'
+- !lcsh 'Louis XIV, King of France, 1638-1715'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793'
+- GITenberg
+tableOfContents: Memoirs of Marguerite de Valois, Queen of Navarre -- Memoirs of Jean
+  François Paul de Gondi, Cardinal de Retz -- Memoirs of Madame la Marquise de Montespan
+  -- Memoirs of the Court of Louis XIV. and of the Regency, by the Duchesse d'Orleans
+  -- Memoirs of Louis XIV. and his Court, and of the Regency, by the Duke of Saint-Simon
+  -- Memoirs of Louis XV. and XVI., by Madame du Hausset -- Memoirs of the Court of
+  Marie Antoinette, by Madame Campan -- Memoirs of the Court of St. Cloud, by Stewarton.
+title: Court Memoirs of France Series — Complete
+url: http://www.gutenberg.org/ebooks/3900
